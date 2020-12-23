@@ -221,10 +221,10 @@ const getFirstListStyle = (isDraggingOver) => ({
 const getItemStyle = (isDragging, draggableStyle, item) => ({
   // userSelect: 'none',
   borderRadius: 10,
-  height: 80,
+  height: 70,
   fontSize: 18,
   fontWeight: 'bold',
-  width: 80,
+  width: 70,
   padding: grid * 2,
   marginRight: 10,
   background: item.background_color,
