@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/ReatWebApp/static/css/main.2ae47eeb.chunk.css",
-    "main.js": "/ReatWebApp/static/js/main.9410a18c.chunk.js",
-    "main.js.map": "/ReatWebApp/static/js/main.9410a18c.chunk.js.map",
+    "main.js": "/ReatWebApp/static/js/main.badd9fc2.chunk.js",
+    "main.js.map": "/ReatWebApp/static/js/main.badd9fc2.chunk.js.map",
     "runtime-main.js": "/ReatWebApp/static/js/runtime-main.3c27874e.js",
     "runtime-main.js.map": "/ReatWebApp/static/js/runtime-main.3c27874e.js.map",
     "static/js/2.a4bce3e8.chunk.js": "/ReatWebApp/static/js/2.a4bce3e8.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.3c27874e.js",
     "static/js/2.a4bce3e8.chunk.js",
     "static/css/main.2ae47eeb.chunk.css",
-    "static/js/main.9410a18c.chunk.js"
+    "static/js/main.badd9fc2.chunk.js"
   ]
 }
