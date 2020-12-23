@@ -7,23 +7,18 @@ const itemList = [
     "row_items": [
       {
         "id": "1",
-        "name": "Bill",
+        "name": "A",
         "background_color": "red"
       },
       {
         "id": "2",
-        "name": "mobile",
+        "name": "B",
         "background_color": "pink"
       },
       {
         "id": "3",
-        "name": "HBB",
-        "background_color": "orange"
-      },
-      {
-        "id": "4",
-        "name": "DTV",
-        "background_color": "#aaaaff"
+        "name": "C",
+        "background_color": "purple"
       }
     ]
   },
@@ -32,23 +27,38 @@ const itemList = [
     "row_items": [
       {
         "id": "13",
-        "name": "trans history",
-        "background_color": "#ffaaff"
+        "name": "E",
+        "background_color": "yellow"
       },
       {
         "id": "14",
-        "name": "my doctor",
-        "background_color": "purple"
+        "name": "F",
+        "background_color": "blue"
       },
       {
         "id": "15",
-        "name": "Reload",
+        "name": "G",
         "background_color": "cyan"
+      }
+    ]
+  },
+  {
+    "draggable_id": "draggable_3",
+    "row_items": [
+      {
+        "id": "17",
+        "name": "I",
+        "background_color": "grey"
       },
       {
-        "id": "16",
-        "name": "Stock",
-        "background_color": "yellow"
+        "id": "18",
+        "name": "J",
+        "background_color": "green"
+      },
+      {
+        "id": "19",
+        "name": "K",
+        "background_color": "orange"
       }
     ]
   }
@@ -212,6 +222,8 @@ const getItemStyle = (isDragging, draggableStyle, item) => ({
   // userSelect: 'none',
   borderRadius: 10,
   height: 80,
+  fontSize: 18,
+  fontWeight: 'bold',
   width: 80,
   padding: grid * 2,
   marginRight: 10,
